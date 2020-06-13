@@ -57,7 +57,7 @@ supported:
 ### Versions
 #### 0.2.4 (01.10.2019):
        - added:
-           -> functon selfies_alphabet() which returns a list of 29 selfies symbols whos arbitrary combination produce >99.99% valid molecules
+           -> function selfies_alphabet() which returns a list of 29 selfies symbols whos arbitrary combination produce >99.99% valid molecules
        - bug fixes:
            -> fixed bug which happens when three rings start at one node, and two of them form a double ring
            -> enabled rings with sizes of up to 8000 SELFIES symbols
